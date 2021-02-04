@@ -48,3 +48,13 @@ h2{color: #ffffff;
 .hutsefluts {
   margin-top: 3em;
 }
+
+.newspaper {
+  column-count: 3;
+  column-gap: 3em;
+  column-rule: 1px solid white;
+}
+
+h2 {
+  column-span: all;
+}
