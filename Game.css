@@ -58,3 +58,19 @@ h2{color: #ffffff;
 h2 {
   column-span: all;
 }
+
+.column {
+  vertical-align: top;
+  text-align: left;
+  padding-left: 1em;
+  padding-right: 1em;
+  
+}
+
+.borderright {
+  border-right: 1px solid white;
+}
+
+.gameInfo {
+  width:100%;
+}
